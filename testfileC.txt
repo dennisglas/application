@@ -1,1 +1,2 @@
 file C
+add a change in text
