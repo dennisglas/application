@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 file C
+=======
+file C
+add something
+this is  for squash merge
+>>>>>>> FeaturesA
